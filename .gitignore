@@ -1,11 +1,5 @@
 *
 !.gitignore
-!config.cfg
-!video.txt
-!videodefaults.txt
-!_skizi.cfg
-!initial.cfg
-!cr_classic_green.cfg
-!cr_default.cfg
-!cr_purple_dot.cfg
-!cr_sm_blue.cfg
+!00_cs16/**
+!01_csgo/**
+!02_cs2/**

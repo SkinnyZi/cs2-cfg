@@ -1,5 +1,9 @@
-*
-!.gitignore
-!00_cs16/**
-!01_csgo/**
-!02_cs2/**
+.idea
+
+*.cfg*
+*.vcfg*
+*.txt
+
+!00_cs16/*
+!01_csgo/*
+!02_cs2/*
